@@ -1,5 +1,5 @@
 {
-  "name": "react-dazzle",
+  "name": "react-dazzle-couban",
   "version": "1.2.7",
   "description": "The simple yet flexible dashbording solution for React",
   "license": "MIT",
@@ -31,10 +31,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Raathigesh/Dazzle.git"
+    "url": "https://github.com/ellie-couban/Dazzle.git"
   },
   "bugs": {
-    "url": "https://github.com/Raathigesh/Dazzle/issues"
+    "url": "https://github.com/ellie-couban/Dazzle/issues"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
