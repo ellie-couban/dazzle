@@ -1,6 +1,6 @@
 {
   "name": "react-dazzle-couban",
-  "version": "1.2.8",
+  "version": "1.2.9",
   "description": "The simple yet flexible dashbording solution for React",
   "license": "MIT",
   "main": "dist/lib.js",
